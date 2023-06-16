@@ -1,5 +1,5 @@
 {
-    "name": "Potatoheim Modpack V3",
+    "name": "Potatoheim_Modpack_V3",
     "version_number": "3.0.0",
     "website_url": "https://github.com/emvama/PotatoheimModpackV3",
     "description": "Potatoes unite! Modpack for the amazing patrons of Emma T potato",
@@ -12,6 +12,6 @@
         "PeterD23-MaxLevelMistlands-1.0.0",
         "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
         "k942-MassFarming-1.7.0",
-        "OdinPlus-TeleportEverything-2.3.1",
+        "OdinPlus-TeleportEverything-2.3.1"
     ]
   }
