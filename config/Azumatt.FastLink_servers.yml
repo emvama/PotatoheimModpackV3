@@ -1,0 +1,9 @@
+# Configure your servers for Azumatt's FastLink mod in this file.
+# Servers are automatically sorted alphabetically when shown in the list.
+# This file live updates the in-game listing. Feel free to change it while in the main menu.
+
+<color=purple>Potatoheim</color>:
+  address: 161.97.171.241
+  port: 33900
+  password: T0rt!
+
